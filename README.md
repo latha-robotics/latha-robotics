@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Latha
+# Hi, I'm Latha
 
-## 🤖 Robotics Enthusiast | Humanoid Robotics | Embedded Systems | AI
+## Robotics Enthusiast | Humanoid Robotics | Embedded Systems | AI
 
 I am passionate about building intelligent robotic systems and exploring the future of **humanoid robotics, embodied AI, robot control, and autonomous systems**.
 
@@ -10,24 +10,24 @@ I believe the future belongs to people who **build, experiment, learn, and solve
 
 ---
 
-## 🦾 My Robotics Interests
+## My Robotics Interests
 
-* 🤖 Humanoid Robotics
-* 🧠 Embodied AI
-* 🦿 Robot Kinematics & Control
-* ✋ Dexterous Manipulation
-* 👁️ Computer Vision
-* 🗺️ SLAM & Navigation
-* 🧭 Sensor Fusion
-* 🤝 Human-Robot Interaction
-* 🐍 Python for Robotics
-* ⚙️ ROS 2
-* 🔌 Embedded Robotics
-* 🌱 Agricultural Robotics
+* Humanoid Robotics
+* Embodied AI
+* Robot Kinematics & Control
+* Dexterous Manipulation
+* Computer Vision
+* SLAM & Navigation
+* Sensor Fusion
+* Human-Robot Interaction
+* Python for Robotics
+* ROS 2
+* Embedded Robotics
+* Agricultural Robotics
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming
 
@@ -77,9 +77,9 @@ I believe the future belongs to people who **build, experiment, learn, and solve
 
 ---
 
-# 🚀 Robotics Projects
+# Robotics Projects
 
-## 1. 🤖 Humanoid Robotics Learning Lab
+## 1. Humanoid Robotics Learning Lab
 
 **Goal:** Build a learning portfolio around humanoid robotics and embodied intelligence.
 
@@ -116,7 +116,7 @@ Learning to create and control robots using ROS 2 simulation environments.
 
 ---
 
-## 3. 🚗 High-Speed Line Follower Robot
+## 3. High-Speed Line Follower Robot
 
 A competition-oriented autonomous robot designed to follow a track at high speed.
 
@@ -142,7 +142,7 @@ A competition-oriented autonomous robot designed to follow a track at high speed
 
 ---
 
-## 4. 🌱 Smart Agriculture Robot
+## 4. Smart Agriculture Robot
 
 Exploring robotics solutions for agriculture and precision farming.
 
@@ -163,7 +163,7 @@ Sensor → ESP32 → Data Processing → Decision → Actuator
 
 ---
 
-## 5. 👁️ Computer Vision for Robotics
+## 5. Computer Vision for Robotics
 
 Experiments with using computer vision to help robots understand their environment.
 
@@ -180,7 +180,7 @@ Experiments with using computer vision to help robots understand their environme
 
 ---
 
-# 🧠 Currently Learning
+# Currently Learning
 
 
 ROS 2                 ███████░░░  70%
@@ -196,7 +196,7 @@ Embodied AI           ████░░░░░░  40%
 
 ---
 
-# 🎯 Internship Goal
+# Internship Goal
 
 I am looking for opportunities where I can work on real-world robotics problems and learn from experienced robotics engineers.
 
@@ -216,7 +216,7 @@ My goal is to move from **learning robotics → building robotics → solving re
 
 ---
 
-# 🌍 Long-Term Vision
+# Long-Term Vision
 
 I want to contribute to robotics systems that create meaningful real-world impact, particularly in areas such as:
 
@@ -226,14 +226,10 @@ I am interested not only in learning robotics technology but also in understandi
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 * GitHub: Latha Robotics
 * LinkedIn: www.linkedin.com/in/latha-soni
 * Email: latharockz7@gmail.com
 
----
 
-⭐ *Learning. Building. Testing. Improving.*
-
-**The future belongs to those who build it. 🤖**
